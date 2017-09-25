@@ -1,0 +1,6 @@
+C:\Users\cem\Documents\Visual Studio 2015\Projects\Hepsiburada\Zipkin\Hepsiburada.Zipkin\Infrastructure\Hepsiburada.Zipkin\bin\Debug\Hepsiburada.Zipkin.dll
+C:\Users\cem\Documents\Visual Studio 2015\Projects\Hepsiburada\Zipkin\Hepsiburada.Zipkin\Infrastructure\Hepsiburada.Zipkin\bin\Debug\Hepsiburada.Zipkin.pdb
+C:\Users\cem\Documents\Visual Studio 2015\Projects\Hepsiburada\Zipkin\Hepsiburada.Zipkin\Infrastructure\Hepsiburada.Zipkin\bin\Debug\Newtonsoft.Json.dll
+C:\Users\cem\Documents\Visual Studio 2015\Projects\Hepsiburada\Zipkin\Hepsiburada.Zipkin\Infrastructure\Hepsiburada.Zipkin\bin\Debug\Newtonsoft.Json.xml
+C:\Users\cem\Documents\Visual Studio 2015\Projects\Hepsiburada\Zipkin\Hepsiburada.Zipkin\Infrastructure\Hepsiburada.Zipkin\obj\Debug\Hepsiburada.Zipkin.dll
+C:\Users\cem\Documents\Visual Studio 2015\Projects\Hepsiburada\Zipkin\Hepsiburada.Zipkin\Infrastructure\Hepsiburada.Zipkin\obj\Debug\Hepsiburada.Zipkin.pdb
